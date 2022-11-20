@@ -14,7 +14,7 @@
 
 --------
 
-This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)
+This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.com/kumbidi-swami/DonLee-Robot-V1.git)
 
 Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button
 
@@ -36,7 +36,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <br>
 
 ### Notice
-* This [Deploy button](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee-Robot-V1/tree/main) is the original
+* This [Deploy button](https://heroku.com/deploy?template=https://github.com/kumbidi-swami/DonLee-Robot-V1.git) is the original
 * Click [Deploy Video](https://youtu.be/uAHl5jvnrhk) to watch the video
 
 #### Deploy Video
@@ -44,7 +44,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <a href="https://youtu.be/uAHl5jvnrhk"><img src="https://img.shields.io/youtube/views/uAHl5jvnrhk?style=social">
 
 #### Deploy To Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee-Robot-V1/tree/main"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/kumbidi-swami/DonLee-Robot-V1.git"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 </details>
 
@@ -53,7 +53,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <br>
 
 ### Notice
-* This [Deploy button](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee-Robot-V1/tree/MoTech) is the original
+* This [Deploy button](https://heroku.com/deploy?template=https://github.com/kumbidi-swami/DonLee-Robot-V1.git) is the original
 * Click [Deploy Video](https://youtu.be/lI71HsWzTKE) to watch the video
 
 #### Deploy Video
@@ -61,7 +61,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <a href="https://youtu.be/lI71HsWzTKE"><img src="https://img.shields.io/youtube/views/lI71HsWzTKE?style=social">
 
 #### Deploy To Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee-Robot-V1/tree/MoTech"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/kumbidi-swami/DonLee-Robot-V1.git"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 </a>
 </p>
